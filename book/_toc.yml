@@ -1,0 +1,6 @@
+# https://jupyterbook.org/customize/toc.html
+- file: introduction
+
+- part: Get started
+  chapters:
+  - file: first-steps-in-jax.ipynb
