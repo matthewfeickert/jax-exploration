@@ -3,4 +3,4 @@
 
 - part: Get started
   chapters:
-  - file: introduction
+  - file: first-steps-in-jax.ipynb
